@@ -1,0 +1,12 @@
+{
+  "name": "COTO COIN",
+  "symbol": "COTO",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "COTO COIN es un proyecto nacido en Costa Rica con una visión solidaria: utilizar la tecnología blockchain para ayudar a niños pobres e indigentes en las calles, creando una comunidad activa, educativa y con propósito real.",
+  "website": "https://cotocoin.com.free",
+  "socials": {
+    "telegram": "https://t.me/cotocoin",
+    "twitter": "https://x.com/Coto_Coin?t=fLotrJ_OblTyAzLZoQJPFw&s=09"
+  }
+}
